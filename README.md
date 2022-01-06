@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @barondugroove
+# Hey there, I am Baron du Groove. <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="30px">
+
 - 👀 I’m am a music nerd and tech enthusiast. 
 - 🌱 I’m currently learning C at 42.
 
