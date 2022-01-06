@@ -1,4 +1,4 @@
-# Hey there, I am Ben. <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="25px">
+# <h1 align="center"> Hey there, I am Ben. <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="25px">
 
 I'm a music nerd and tech enthusiast currently learning C at [42](https://42.fr/en/homepage/) in Angoulême.
 In a past life I was Head of Distribution and Label Manager at [Délicieuse Musique](http://www.delicieuse-musique.com/), [Nice Guys](https://www.youtube.com/niceguys) & [Hip Dozer](https://www.youtube.com/c/HipDozerMusic).
