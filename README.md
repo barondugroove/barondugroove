@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning C at 42.
 
 
-[![Spotify](https://barondugroove.vercel.app/api/spotify)](https://open.spotify.com/user/barondugroove)
+[![Spotify](https://novatorem-n8s78i17i-barondugroove.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/barondugroove)
 
 
