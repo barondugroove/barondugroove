@@ -13,7 +13,7 @@ In a past life I was Head of Distribution and Label Manager at [Délicieuse Musi
 
 ### 🎵 What I'm listening to
 
-[![Spotify](https://novatorem-barondugroove.vercel.app/api/spotify?background_color=0d1117&border_color=000000)](https://open.spotify.com/user/barondugroove)
+[![Spotify](https://novatorem-barondugroove.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/barondugroove)
 
 ### 🔭 Find me here
 
