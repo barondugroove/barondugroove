@@ -21,9 +21,8 @@ ________________________________________________________________________________
 
 ### 🎵 What I'm listening to
 __________________________________________________________________________________________________________
-
-[![Spotify](http://novatorem-barondugroove.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/119044111)
-
+<p align="center" 
+[![Spotify](http://novatorem-barondugroove.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/119044111)<\p>
 
 
 
