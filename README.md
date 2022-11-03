@@ -12,7 +12,7 @@ In a past life I was Head of Distribution and Label Manager at [Délicieuse Musi
   
 [Nice Guys Compilation Vol. 2](https://youtu.be/3n1aC2TYXIA) </br>
 [Hip Dozer Compilation Vol. 5](https://youtu.be/phYH9h2Ogzc) </br>
-["Tea Party" a new film by Fun Boys, Nice Guys and NobodySurf](https://youtu.be/W23S8m4IzeU) </br>
+["Tea Party" a new film by Fun Boys, Nice Guys and Nobody Surf](https://youtu.be/W23S8m4IzeU) </br>
   
 </div>
   
